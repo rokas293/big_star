@@ -1,6 +1,6 @@
 This is the website for Big Star Collectibles
 
-It can be viewed by opening the file index.html in a browser.
+It can be viewed by opening the file index.html in any browser.
 
 Developed for LinkedIn Learning
 
